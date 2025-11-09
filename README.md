@@ -118,4 +118,4 @@ flutter run
 ```
 ## ✍️ Credits  
 
-All emoji icons are credited in CREDITS.md.
+All emoji icons are credited in [CREDITS.md](CREDITS.md)
