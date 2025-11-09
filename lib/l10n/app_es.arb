@@ -1,0 +1,34 @@
+{
+  "@@locale": "es",
+  "appTitle": "Consejos de ánimo",
+  "askMood": "¿Cómo te sientes hoy?",
+  "reset": "🔄 Reiniciar",
+
+  "adviceHappy1": "Sonríe, disfruta el momento 😃",
+  "adviceHappy2": "Encuentra alegría en las pequeñas cosas 🌸",
+  "adviceHappy3": "Comparte tu sonrisa con otros 💫",
+
+  "adviceSad1": "La tristeza pasará, todo estará bien 💙",
+  "adviceSad2": "Tómate tu tiempo, no te apresures 🌿",
+  "adviceSad3": "Aguanta, todo saldrá bien ⏳",
+
+  "adviceAngry1": "Cuenta hasta diez y cálmate 🔟",
+  "adviceAngry2": "Respira profundo 🌬️",
+  "adviceAngry3": "Haz algo divertido ✨",
+
+  "adviceCool1": "Mantén la confianza en ti mismo 😎",
+  "adviceCool2": "Mantente tranquilo y centrado 💎",
+  "adviceCool3": "Actúa con seguridad, funcionará ✨",
+
+  "adviceTired1": "Bebe agua, haz una pausa 💧",
+  "adviceTired2": "Toma un descanso corto, es importante 🛌",
+  "adviceTired3": "Permítete relajarte un poco 🔋",
+
+  "langEn": "Inglés 🇬🇧",
+  "langRu": "Ruso 🇷🇺",
+  "langUk": "Ucraniano 🇺🇦",
+  "langHe": "Hebreo 🇮🇱",
+  "langHi": "Hindi 🇮🇳",
+  "langEs": "Español 🇪🇸",
+  "langAr": "Árabe 🌐"
+}

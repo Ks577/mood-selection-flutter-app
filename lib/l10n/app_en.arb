@@ -1,0 +1,34 @@
+{
+  "@@locale": "en",
+  "appTitle": "Mood Advice",
+  "askMood": "What's your mood today?",
+  "reset": "🔄 Reset",
+
+  "adviceHappy1": "Smile, enjoy the moment 😃",
+  "adviceHappy2": "Find joy in small things 🌸",
+  "adviceHappy3": "Share your smile with others 💫",
+
+  "adviceSad1": "Sadness passes, everything will be fine 💙",
+  "adviceSad2": "Take your time, don't rush 🌿",
+  "adviceSad3": "Hang in there, it will be okay ⏳",
+
+  "adviceAngry1": "Count to ten and calm down 🔟",
+  "adviceAngry2": "Take a deep breath 🌬️",
+  "adviceAngry3": "Do something fun ✨",
+
+  "adviceCool1": "Keep confidence in yourself 😎",
+  "adviceCool2": "Stay calm and collected 💎",
+  "adviceCool3": "Act confidently, it will work ✨",
+
+  "adviceTired1": "Drink water, take a break 💧",
+  "adviceTired2": "Take a short rest, it’s important 🛌",
+  "adviceTired3": "Let yourself relax a bit 🔋",
+
+  "langEn": "English 🇬🇧",
+  "langRu": "Russian 🇷🇺",
+  "langUk": "Ukrainian 🇺🇦",
+  "langHe": "Hebrew 🇮🇱",
+  "langHi": "Hindi 🇮🇳",
+  "langEs": "Spanish 🇪🇸",
+  "langAr": "Arabic 🌐"
+}
